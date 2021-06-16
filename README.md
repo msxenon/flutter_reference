@@ -28,5 +28,5 @@ flutter.dev/docs , Medium.com, YouTube.com, raywenderlich.com
 # Additional Questions  
 -Whats the different between dependencies and dev_dependencies in pubspec.yaml?  
 -mention a couple of testing procedures in dart / flutter !  
--have you used DataClasses in dart ? how do you create them?  
+-have you used DataClasses(DTO) in dart ? how do you create them?  
 -tell us about what is functional programming and how to use it in dart?  
