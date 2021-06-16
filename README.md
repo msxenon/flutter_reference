@@ -26,5 +26,5 @@ flutter.dev/docs , Medium.com, YouTube.com, raywenderlich.com
 #4 https://github.com/power19942/flutter-interview-questions  
 
 # Additional Questions  
--Whats the different between dependencies and dev_dependencies in pubspec.yaml?
+-Whats the different between dependencies and dev_dependencies in pubspec.yaml?  
 -mention a couple of testing procedures in dart / flutter !
