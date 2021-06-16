@@ -25,3 +25,6 @@ flutter.dev/docs , Medium.com, YouTube.com, raywenderlich.com
 #3 https://medium.com/@artrmz/flutter-interview-questions-and-answers-2020-adad5dacaf6a  
 #4 https://github.com/power19942/flutter-interview-questions  
 
+# Additional Questions  
+-Whats the different between dependencies and dev_dependencies in pubspec.yaml?
+-mention a couple of testing procedures in dart / flutter !
