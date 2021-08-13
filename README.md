@@ -25,9 +25,15 @@ flutter.dev/docs , Medium.com, YouTube.com, raywenderlich.com
 #3 https://medium.com/@artrmz/flutter-interview-questions-and-answers-2020-adad5dacaf6a  
 #4 https://github.com/power19942/flutter-interview-questions  
 
-# Additional Questions  
+# Additional Questions  (Advanced). 
 -Whats the different between dependencies and dev_dependencies in pubspec.yaml?  
 -mention a couple of testing procedures in dart / flutter !  
 -have you used DataClasses(DTO) in dart ? how do you create them?  
 -tell us about what is functional programming and how to use it in dart?  
--Define External Functions? 
+-Define External Functions?  
+-talk about dart generators? (sync*,async*, yeild & yeild*)  
+-why do we use asserts and when?  
+-whats the different between throw and rethrow?  
+-Have you heard about The "covariant" keyword? describe with small example.  
+-whats deferred imports?  
+-whats "hide" keyward?
