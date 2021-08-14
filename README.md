@@ -1,4 +1,7 @@
 # Flutter Reference
+## History of Flutter (by Tadas Petra)
+https://www.youtube.com/watch?v=nGd6ryAFtIM
+
 ## Docs & Tutorials
 flutter.dev/docs , Medium.com, YouTube.com, raywenderlich.com  
 ## Interview questions.  
@@ -35,5 +38,7 @@ flutter.dev/docs , Medium.com, YouTube.com, raywenderlich.com
 -why do we use asserts and when?  
 -whats the different between throw and rethrow?  
 -Have you heard about The "covariant" keyword? describe with small example.  
--whats deferred imports?  
--whats "hide" keyward?
+-whats deferred imports do?  
+-whats hide in imports do?
+
+
