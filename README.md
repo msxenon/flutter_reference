@@ -39,6 +39,19 @@ flutter.dev/docs , Medium.com, YouTube.com, raywenderlich.com
 -whats the different between throw and rethrow?  
 -Have you heard about The "covariant" keyword? describe with small example.  
 -whats deferred imports do?  
--whats hide in imports do?
+-whats hide in imports do?  
+-whats [SOLID](https://en.wikipedia.org/wiki/SOLID "SOLID") and [DRY](https://www.plutora.com/blog/understanding-the-dry-dont-repeat-yourself-principle "DRY") principles 
+<details>
+<summary>what is JIT and AOT</summary>
+
+In the context of the Dart programming language, JIT (Just-In-Time) and AOT (Ahead-Of-Time) compilation strategies are used to optimize the performance of the Dart code.
+
+JIT (Just-In-Time) Compilation: In Dart, JIT compilation is employed during development to enable features like hot-reloading, which allows developers to see the changes in their code without needing to restart the application. JIT compilation provides faster development cycles, but the compiled code may not be as optimized for performance as AOT-compiled code.
+
+AOT (Ahead-Of-Time) Compilation: Dart uses AOT compilation when building a production version of the application. AOT compilation compiles the Dart code into native machine code before the application is run, which results in faster startup times and improved performance. AOT compilation also enables smaller executable sizes and better memory usage. However, AOT-compiled code lacks the hot-reloading feature available during development with JIT compilation.
+
+In summary, Dart uses JIT compilation during development to provide a better development experience with features like hot-reloading, while it uses AOT compilation for production builds to deliver better performance and smaller executable sizes.
+
+</details>
 
 
